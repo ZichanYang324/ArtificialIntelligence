@@ -1,5 +1,3 @@
-Group members: Yushan Zhou, Zichan Yang
-
 This project runs on Python3
 FlightStatusNetwork.py stores the structure of our network
 Queries.py stores test cases, including casual query, diagnostic query, and sanity check, you could modify the test cases to check any arbitrary query
